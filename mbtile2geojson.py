@@ -45,9 +45,9 @@ if __name__ == '__main__':
     elif my_file.is_dir():
         # search for file
         print("parameter --filename points to valid directory".format(options.archivfilename))
-        filelist = GetFileList(options.archivfilename, _filter=".mbtiles")
+        filelist = GetFileList(options.archivfilename, filterval=".mbtiles")
         if len(filelist) is 1:
-            archivfilename = options.archivfilename + filelist[0]
+            archivfilename = filelist[0]
         else:
             print("error invalid parameter for --filename detected 2: {}".format(options.archivfilename))
             sys.exit(1)
