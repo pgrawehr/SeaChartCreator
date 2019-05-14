@@ -65,6 +65,7 @@ pipeline {
      	{
             steps{
      	    sh """#!/bin/bash
+     	    cd SeaChartCreator/
      		python3 mbtile2geojson.py -u https://ftp5.gwdg.de \
     		                       -d /pub/misc/openstreetmap/openseamap/charts/history/mbtiles \
     		                       -f ./work/history/mbtiles/ \
