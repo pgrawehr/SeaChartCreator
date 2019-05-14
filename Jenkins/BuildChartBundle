@@ -52,7 +52,6 @@ pipeline {
             steps{
              sh"""#!/bin/bash
          	   cd SeaChartCreator/
-         	   rm -fr ./work/
          	   python3 build.py -q -s -t mbtiles -i ${params.BUNDLEPATH}/${params.BUNDLENAME}.xml \
          	                             -d /var/lib/SeaChartCreator/work/database/ 
          	   ls /var/lib/SeaChartCreator/work/database/ -l 
