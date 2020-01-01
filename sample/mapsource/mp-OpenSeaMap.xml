@@ -9,7 +9,7 @@
        <maxZoom>18</maxZoom>
        <tileType>png</tileType>
        <tileUpdate>None</tileUpdate>
-       <url>http://{$serverpart}.tile.openstreetmap.org/{$z}/{$x}/{$y}.png</url>
+       <url>https://{$serverpart}.tile.openstreetmap.org/{$z}/{$x}/{$y}.png</url>
        <serverParts>a b c</serverParts>
    </customMapSource>
    <customMapSource>
