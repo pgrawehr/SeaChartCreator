@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<customMultiLayerMapSource>
+    <name>OpenSeaMap German Combined</name>
+    <tileType>PNG</tileType>
+    <layers>
+   <customMapSource>
+       <name>OpenStreetMapGermanBase</name>
+       <minZoom>0</minZoom>
+       <maxZoom>22</maxZoom>
+       <tileType>png</tileType>
+       <tileUpdate>None</tileUpdate>
+       <url>https://{$serverpart}.tile.openstreetmap.de/{$z}/{$x}/{$y}.png</url>
+       <serverParts>a b c</serverParts>
+   </customMapSource>
+   <customMapSource>
+       <name>SeaMarksOverlay</name>
+       <minZoom>0</minZoom>
+       <maxZoom>18</maxZoom>
+       <tileType>png</tileType>
+       <tileUpdate>None</tileUpdate>
+       
+       <!-- Ignore missing tiles where no sea marks are present -->
+       <ignoreErrors>true</ignoreErrors>
+
+       <!-- Transparent tiles instead of the missing tiles -->
+       <backgroundColor>#00000000</backgroundColor>
+
+       <url>http://tiles.openseamap.org/seamark/{$z}/{$x}/{$y}.png</url>
+   </customMapSource>
+    </layers>
+</customMultiLayerMapSource>
