@@ -1,0 +1,688 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<atlas version="1" name="BodenseeOseam" outputFormat="MBTiles">
+    <Layer name="BaseLayer">
+        <Map maxTileCoordinate="767/511" minTileCoordinate="512/256" mapSource="OpenSeaMap German Combined" zoom="2" name="BaseLayer 02"/>
+        <Map maxTileCoordinate="1279/767" minTileCoordinate="1024/512" mapSource="OpenSeaMap German Combined" zoom="3" name="BaseLayer 03"/>
+        <Map maxTileCoordinate="2303/1535" minTileCoordinate="2048/1280" mapSource="OpenSeaMap German Combined" zoom="4" name="BaseLayer 04"/>
+        <Map maxTileCoordinate="4351/3071" minTileCoordinate="4096/2816" mapSource="OpenSeaMap German Combined" zoom="5" name="BaseLayer 05"/>
+        <Map maxTileCoordinate="8703/5887" minTileCoordinate="8448/5632" mapSource="OpenSeaMap German Combined" zoom="6" name="BaseLayer 06"/>
+        <Map maxTileCoordinate="17407/11519" minTileCoordinate="17152/11264" mapSource="OpenSeaMap German Combined" zoom="7" name="BaseLayer 07"/>
+        <Map maxTileCoordinate="34559/23039" minTileCoordinate="34304/22784" mapSource="OpenSeaMap German Combined" zoom="8" name="BaseLayer 08"/>
+        <Map maxTileCoordinate="69119/46079" minTileCoordinate="68608/45568" mapSource="OpenSeaMap German Combined" zoom="9" name="BaseLayer 09"/>
+        <Map maxTileCoordinate="138239/91903" minTileCoordinate="137216/91136" mapSource="OpenSeaMap German Combined" zoom="10" name="BaseLayer 10"/>
+        <Map maxTileCoordinate="276479/183551" minTileCoordinate="274432/182272" mapSource="OpenSeaMap German Combined" zoom="11" name="BaseLayer 11"/>
+        <Map maxTileCoordinate="552959/367103" minTileCoordinate="549120/364800" mapSource="OpenSeaMap German Combined" zoom="12" name="BaseLayer 12"/>
+    </Layer>
+    <Layer name="WaterArea_7">
+        <Map maxTileCoordinate="1104639/733695" minTileCoordinate="1103872/733184" mapSource="OpenSeaMap German Combined" zoom="13" name="WaterArea_7 13"/>
+        <Map maxTileCoordinate="2209023/1467391" minTileCoordinate="2207744/1466368" mapSource="OpenSeaMap German Combined" zoom="14" name="WaterArea_7 14"/>
+        <Map maxTileCoordinate="4418047/2934527" minTileCoordinate="4415744/2932736" mapSource="OpenSeaMap German Combined" zoom="15" name="WaterArea_7 15"/>
+        <Map maxTileCoordinate="8836095/5869055" minTileCoordinate="8831488/5865472" mapSource="OpenSeaMap German Combined" zoom="16" name="WaterArea_7 16"/>
+    </Layer>
+    <Layer name="Pfaender">
+        <Map maxTileCoordinate="1105663/733439" minTileCoordinate="1105408/733184" mapSource="OpenSeaMap German Combined" zoom="13" name="Pfaender 13"/>
+        <Map maxTileCoordinate="2211327/1466623" minTileCoordinate="2210816/1466368" mapSource="OpenSeaMap German Combined" zoom="14" name="Pfaender 14"/>
+        <Map maxTileCoordinate="4422399/2933247" minTileCoordinate="4421888/2932992" mapSource="OpenSeaMap German Combined" zoom="15" name="Pfaender 15"/>
+        <Map maxTileCoordinate="8844543/5866239" minTileCoordinate="8844032/5865984" mapSource="OpenSeaMap German Combined" zoom="16" name="Pfaender 16"/>
+    </Layer>
+    <Layer name="Haefen">
+        <Map maxTileCoordinate="17677311/11731199" minTileCoordinate="17675264/11729152" mapSource="OpenSeaMap German Combined" zoom="17" name="Haefen 17"/>
+        <Map maxTileCoordinate="35354367/23462143" minTileCoordinate="35350784/23458304" mapSource="OpenSeaMap German Combined" zoom="18" name="Haefen 18"/>
+    </Layer>
+    <Layer name="Haefen_1">
+        <Map maxTileCoordinate="17677567/11733247" minTileCoordinate="17675520/11730688" mapSource="OpenSeaMap German Combined" zoom="17" name="Haefen_1 17"/>
+        <Map maxTileCoordinate="35355135/23466239" minTileCoordinate="35351296/23461632" mapSource="OpenSeaMap German Combined" zoom="18" name="Haefen_1 18"/>
+    </Layer>
+    <Layer name="Haefen_2">
+        <Map maxTileCoordinate="17679359/11735551" minTileCoordinate="17675264/11732224" mapSource="OpenSeaMap German Combined" zoom="17" name="Haefen_2 17"/>
+        <Map maxTileCoordinate="35358463/23470847" minTileCoordinate="35350784/23464448" mapSource="OpenSeaMap German Combined" zoom="18" name="Haefen_2 18"/>
+    </Layer>
+    <Layer name="Haefen_3">
+        <Map maxTileCoordinate="17677055/11734015" minTileCoordinate="17673472/11730688" mapSource="OpenSeaMap German Combined" zoom="17" name="Haefen_3 17"/>
+        <Map maxTileCoordinate="35353855/23468031" minTileCoordinate="35347200/23461376" mapSource="OpenSeaMap German Combined" zoom="18" name="Haefen_3 18"/>
+    </Layer>
+    <Layer name="Haefen_4">
+        <Map maxTileCoordinate="17672703/11735295" minTileCoordinate="17671680/11734272" mapSource="OpenSeaMap German Combined" zoom="17" name="Haefen_4 17"/>
+        <Map maxTileCoordinate="35345151/23470335" minTileCoordinate="35343360/23468544" mapSource="OpenSeaMap German Combined" zoom="18" name="Haefen_4 18"/>
+    </Layer>
+    <Layer name="Haefen_7">
+        <Map maxTileCoordinate="17673983/11734271" minTileCoordinate="17673728/11733760" mapSource="OpenSeaMap German Combined" zoom="17" name="Haefen_7 17"/>
+        <Map maxTileCoordinate="35347967/23468287" minTileCoordinate="35347456/23467776" mapSource="OpenSeaMap German Combined" zoom="18" name="Haefen_7 18"/>
+    </Layer>
+    <Layer name="Haefen_8">
+        <Map maxTileCoordinate="17674495/11734271" minTileCoordinate="17673984/11733760" mapSource="OpenSeaMap German Combined" zoom="17" name="Haefen_8 17"/>
+        <Map maxTileCoordinate="35348735/23468287" minTileCoordinate="35347968/23467776" mapSource="OpenSeaMap German Combined" zoom="18" name="Haefen_8 18"/>
+    </Layer>
+    <Layer name="Haefen_9">
+        <Map maxTileCoordinate="17673983/11734271" minTileCoordinate="17673472/11733760" mapSource="OpenSeaMap German Combined" zoom="17" name="Haefen_9 17"/>
+        <Map maxTileCoordinate="35347711/23468287" minTileCoordinate="35347200/23467776" mapSource="OpenSeaMap German Combined" zoom="18" name="Haefen_9 18"/>
+    </Layer>
+    <Layer name="Haefen_10">
+        <Map maxTileCoordinate="17668863/11733759" minTileCoordinate="17668096/11732224" mapSource="OpenSeaMap German Combined" zoom="17" name="Haefen_10 17"/>
+        <Map maxTileCoordinate="35337471/23467519" minTileCoordinate="35336192/23464704" mapSource="OpenSeaMap German Combined" zoom="18" name="Haefen_10 18"/>
+    </Layer>
+    <Layer name="Haefen_11">
+        <Map maxTileCoordinate="17668607/11734015" minTileCoordinate="17667584/11732992" mapSource="OpenSeaMap German Combined" zoom="17" name="Haefen_11 17"/>
+        <Map maxTileCoordinate="35337215/23467775" minTileCoordinate="35335168/23465984" mapSource="OpenSeaMap German Combined" zoom="18" name="Haefen_11 18"/>
+    </Layer>
+    <Layer name="Haefen_12">
+        <Map maxTileCoordinate="17667327/11734783" minTileCoordinate="17666816/11734272" mapSource="OpenSeaMap German Combined" zoom="17" name="Haefen_12 17"/>
+        <Map maxTileCoordinate="35334655/23469567" minTileCoordinate="35333632/23468800" mapSource="OpenSeaMap German Combined" zoom="18" name="Haefen_12 18"/>
+    </Layer>
+    <Layer name="Haefen_13">
+        <Map maxTileCoordinate="17666047/11736319" minTileCoordinate="17664768/11735552" mapSource="OpenSeaMap German Combined" zoom="17" name="Haefen_13 17"/>
+        <Map maxTileCoordinate="35332095/23472383" minTileCoordinate="35329792/23471104" mapSource="OpenSeaMap German Combined" zoom="18" name="Haefen_13 18"/>
+    </Layer>
+    <Layer name="Haefen_14">
+        <Map maxTileCoordinate="17663487/11736319" minTileCoordinate="17662976/11736064" mapSource="OpenSeaMap German Combined" zoom="17" name="Haefen_14 17"/>
+        <Map maxTileCoordinate="35326975/23472639" minTileCoordinate="35326208/23472128" mapSource="OpenSeaMap German Combined" zoom="18" name="Haefen_14 18"/>
+    </Layer>
+    <Layer name="Haefen_15">
+        <Map maxTileCoordinate="17662975/11736575" minTileCoordinate="17662464/11736064" mapSource="OpenSeaMap German Combined" zoom="17" name="Haefen_15 17"/>
+        <Map maxTileCoordinate="35325951/23472895" minTileCoordinate="35324928/23472384" mapSource="OpenSeaMap German Combined" zoom="18" name="Haefen_15 18"/>
+    </Layer>
+    <Layer name="Haefen_16">
+        <Map maxTileCoordinate="17662463/11736319" minTileCoordinate="17661696/11735808" mapSource="OpenSeaMap German Combined" zoom="17" name="Haefen_16 17"/>
+        <Map maxTileCoordinate="35324671/23472639" minTileCoordinate="35323392/23471872" mapSource="OpenSeaMap German Combined" zoom="18" name="Haefen_16 18"/>
+    </Layer>
+    <Layer name="Haefen_17">
+        <Map maxTileCoordinate="17660927/11735807" minTileCoordinate="17660416/11735040" mapSource="OpenSeaMap German Combined" zoom="17" name="Haefen_17 17"/>
+        <Map maxTileCoordinate="35321855/23471359" minTileCoordinate="35320832/23470336" mapSource="OpenSeaMap German Combined" zoom="18" name="Haefen_17 18"/>
+    </Layer>
+    <Layer name="Haefen_18">
+        <Map maxTileCoordinate="17659647/11734015" minTileCoordinate="17658880/11733504" mapSource="OpenSeaMap German Combined" zoom="17" name="Haefen_18 17"/>
+        <Map maxTileCoordinate="35319039/23468031" minTileCoordinate="35318016/23467008" mapSource="OpenSeaMap German Combined" zoom="18" name="Haefen_18 18"/>
+    </Layer>
+    <Layer name="Haefen_19">
+        <Map maxTileCoordinate="17658623/11733503" minTileCoordinate="17657856/11732992" mapSource="OpenSeaMap German Combined" zoom="17" name="Haefen_19 17"/>
+        <Map maxTileCoordinate="35317247/23467007" minTileCoordinate="35315968/23466240" mapSource="OpenSeaMap German Combined" zoom="18" name="Haefen_19 18"/>
+    </Layer>
+    <Layer name="Haefen_20">
+        <Map maxTileCoordinate="17658367/11733247" minTileCoordinate="17657600/11732736" mapSource="OpenSeaMap German Combined" zoom="17" name="Haefen_20 17"/>
+        <Map maxTileCoordinate="35316479/23466495" minTileCoordinate="35315200/23465472" mapSource="OpenSeaMap German Combined" zoom="18" name="Haefen_20 18"/>
+    </Layer>
+    <Layer name="Haefen_21">
+        <Map maxTileCoordinate="17657343/11731711" minTileCoordinate="17656576/11730944" mapSource="OpenSeaMap German Combined" zoom="17" name="Haefen_21 17"/>
+        <Map maxTileCoordinate="35314687/23463423" minTileCoordinate="35313408/23462144" mapSource="OpenSeaMap German Combined" zoom="18" name="Haefen_21 18"/>
+    </Layer>
+    <Layer name="Haefen_22">
+        <Map maxTileCoordinate="17652223/11725055" minTileCoordinate="17651200/11723264" mapSource="OpenSeaMap German Combined" zoom="17" name="Haefen_22 17"/>
+        <Map maxTileCoordinate="35304191/23450111" minTileCoordinate="35302656/23446784" mapSource="OpenSeaMap German Combined" zoom="18" name="Haefen_22 18"/>
+    </Layer>
+    <Layer name="Haefen_23">
+        <Map maxTileCoordinate="17644031/11718143" minTileCoordinate="17643520/11717376" mapSource="OpenSeaMap German Combined" zoom="17" name="Haefen_23 17"/>
+        <Map maxTileCoordinate="35288063/23436287" minTileCoordinate="35287040/23434752" mapSource="OpenSeaMap German Combined" zoom="18" name="Haefen_23 18"/>
+    </Layer>
+    <Layer name="Haefen_24">
+        <Map maxTileCoordinate="17641471/11716607" minTileCoordinate="17640704/11716096" mapSource="OpenSeaMap German Combined" zoom="17" name="Haefen_24 17"/>
+        <Map maxTileCoordinate="35282687/23432959" minTileCoordinate="35281408/23432192" mapSource="OpenSeaMap German Combined" zoom="18" name="Haefen_24 18"/>
+    </Layer>
+    <Layer name="Haefen_25">
+        <Map maxTileCoordinate="17636095/11713535" minTileCoordinate="17635328/11713024" mapSource="OpenSeaMap German Combined" zoom="17" name="Haefen_25 17"/>
+        <Map maxTileCoordinate="35271935/23427071" minTileCoordinate="35270912/23426304" mapSource="OpenSeaMap German Combined" zoom="18" name="Haefen_25 18"/>
+    </Layer>
+    <Layer name="Haefen_26">
+        <Map maxTileCoordinate="17634559/11713279" minTileCoordinate="17633792/11712512" mapSource="OpenSeaMap German Combined" zoom="17" name="Haefen_26 17"/>
+        <Map maxTileCoordinate="35268863/23426303" minTileCoordinate="35267840/23425280" mapSource="OpenSeaMap German Combined" zoom="18" name="Haefen_26 18"/>
+    </Layer>
+    <Layer name="Haefen_27">
+        <Map maxTileCoordinate="17633279/11712511" minTileCoordinate="17632768/11711744" mapSource="OpenSeaMap German Combined" zoom="17" name="Haefen_27 17"/>
+        <Map maxTileCoordinate="35266559/23425023" minTileCoordinate="35265792/23423488" mapSource="OpenSeaMap German Combined" zoom="18" name="Haefen_27 18"/>
+    </Layer>
+    <Layer name="Haefen_28">
+        <Map maxTileCoordinate="17633279/11711743" minTileCoordinate="17632512/11710976" mapSource="OpenSeaMap German Combined" zoom="17" name="Haefen_28 17"/>
+        <Map maxTileCoordinate="35266303/23423487" minTileCoordinate="35265280/23421952" mapSource="OpenSeaMap German Combined" zoom="18" name="Haefen_28 18"/>
+    </Layer>
+    <Layer name="Haefen_29">
+        <Map maxTileCoordinate="17633279/11710975" minTileCoordinate="17632512/11710208" mapSource="OpenSeaMap German Combined" zoom="17" name="Haefen_29 17"/>
+        <Map maxTileCoordinate="35266303/23421951" minTileCoordinate="35265024/23420672" mapSource="OpenSeaMap German Combined" zoom="18" name="Haefen_29 18"/>
+    </Layer>
+    <Layer name="Haefen_30">
+        <PolygonMap maxTileCoordinate="17633279/11710975" minTileCoordinate="17623552/11708672" mapSource="OpenSeaMap German Combined" zoom="17" name="Haefen_30 17">
+            <polygon>
+                <point>17632696/11710688</point>
+                <point>17633040/11710264</point>
+                <point>17632552/11709976</point>
+                <point>17632040/11709768</point>
+                <point>17631656/11709688</point>
+                <point>17631352/11709632</point>
+                <point>17631056/11709520</point>
+                <point>17630776/11709608</point>
+                <point>17630520/11709712</point>
+                <point>17630224/11709760</point>
+                <point>17629904/11709832</point>
+                <point>17629536/11710088</point>
+                <point>17629296/11710312</point>
+                <point>17628976/11710416</point>
+                <point>17628600/11710240</point>
+                <point>17628168/11710144</point>
+                <point>17627936/11710024</point>
+                <point>17627536/11709872</point>
+                <point>17627280/11709712</point>
+                <point>17627224/11709840</point>
+                <point>17626960/11709784</point>
+                <point>17626544/11709632</point>
+                <point>17626104/11709592</point>
+                <point>17625712/11709624</point>
+                <point>17625376/11709696</point>
+                <point>17625160/11709496</point>
+                <point>17624920/11709256</point>
+                <point>17624592/11708976</point>
+                <point>17624144/11708712</point>
+                <point>17623864/11708832</point>
+                <point>17623752/11709064</point>
+                <point>17623768/11709304</point>
+                <point>17624048/11709408</point>
+                <point>17624376/11709592</point>
+                <point>17624456/11709832</point>
+                <point>17624592/11710072</point>
+                <point>17624832/11710224</point>
+                <point>17625136/11710384</point>
+                <point>17625576/11710512</point>
+                <point>17626168/11710472</point>
+                <point>17626600/11710504</point>
+                <point>17627336/11710600</point>
+                <point>17627696/11710496</point>
+                <point>17627816/11710432</point>
+                <point>17628168/11710584</point>
+                <point>17628624/11710656</point>
+                <point>17629016/11710848</point>
+                <point>17629456/11710784</point>
+                <point>17629808/11710544</point>
+                <point>17629896/11710464</point>
+                <point>17630280/11710576</point>
+                <point>17630864/11710408</point>
+                <point>17631024/11710160</point>
+                <point>17631376/11710168</point>
+                <point>17631872/11710176</point>
+            </polygon>
+        </PolygonMap>
+        <PolygonMap maxTileCoordinate="35266303/23421695" minTileCoordinate="35247360/23417344" mapSource="OpenSeaMap German Combined" zoom="18" name="Haefen_30 18">
+            <polygon>
+                <point>35265392/23421376</point>
+                <point>35266080/23420528</point>
+                <point>35265104/23419952</point>
+                <point>35264080/23419536</point>
+                <point>35263312/23419376</point>
+                <point>35262704/23419264</point>
+                <point>35262112/23419040</point>
+                <point>35261552/23419216</point>
+                <point>35261040/23419424</point>
+                <point>35260448/23419520</point>
+                <point>35259808/23419664</point>
+                <point>35259072/23420176</point>
+                <point>35258592/23420624</point>
+                <point>35257952/23420832</point>
+                <point>35257200/23420480</point>
+                <point>35256336/23420288</point>
+                <point>35255872/23420048</point>
+                <point>35255072/23419744</point>
+                <point>35254560/23419424</point>
+                <point>35254448/23419680</point>
+                <point>35253920/23419568</point>
+                <point>35253088/23419264</point>
+                <point>35252208/23419184</point>
+                <point>35251424/23419248</point>
+                <point>35250752/23419392</point>
+                <point>35250320/23418992</point>
+                <point>35249840/23418512</point>
+                <point>35249184/23417952</point>
+                <point>35248288/23417424</point>
+                <point>35247728/23417664</point>
+                <point>35247504/23418128</point>
+                <point>35247536/23418608</point>
+                <point>35248096/23418816</point>
+                <point>35248752/23419184</point>
+                <point>35248912/23419664</point>
+                <point>35249184/23420144</point>
+                <point>35249664/23420448</point>
+                <point>35250272/23420768</point>
+                <point>35251152/23421024</point>
+                <point>35252336/23420944</point>
+                <point>35253200/23421008</point>
+                <point>35254672/23421200</point>
+                <point>35255392/23420992</point>
+                <point>35255632/23420864</point>
+                <point>35256336/23421168</point>
+                <point>35257248/23421312</point>
+                <point>35258032/23421696</point>
+                <point>35258912/23421568</point>
+                <point>35259616/23421088</point>
+                <point>35259792/23420928</point>
+                <point>35260560/23421152</point>
+                <point>35261728/23420816</point>
+                <point>35262048/23420320</point>
+                <point>35262752/23420336</point>
+                <point>35263744/23420352</point>
+            </polygon>
+        </PolygonMap>
+    </Layer>
+    <Layer name="Haefen_31">
+        <Map maxTileCoordinate="17614335/11710719" minTileCoordinate="17613568/11710208" mapSource="OpenSeaMap German Combined" zoom="17" name="Haefen_31 17"/>
+        <Map maxTileCoordinate="35228671/23421439" minTileCoordinate="35227136/23420672" mapSource="OpenSeaMap German Combined" zoom="18" name="Haefen_31 18"/>
+    </Layer>
+    <Layer name="Haefen_32">
+        <Map maxTileCoordinate="17610239/11711743" minTileCoordinate="17609216/11710976" mapSource="OpenSeaMap German Combined" zoom="17" name="Haefen_32 17"/>
+        <Map maxTileCoordinate="35220223/23423487" minTileCoordinate="35218432/23422208" mapSource="OpenSeaMap German Combined" zoom="18" name="Haefen_32 18"/>
+    </Layer>
+    <Layer name="Haefen_33">
+        <Map maxTileCoordinate="17606655/11712511" minTileCoordinate="17606144/11712000" mapSource="OpenSeaMap German Combined" zoom="17" name="Haefen_33 17"/>
+        <Map maxTileCoordinate="35213055/23425023" minTileCoordinate="35212288/23424256" mapSource="OpenSeaMap German Combined" zoom="18" name="Haefen_33 18"/>
+    </Layer>
+    <Layer name="Haefen_34">
+        <Map maxTileCoordinate="17593087/11707135" minTileCoordinate="17592576/11706624" mapSource="OpenSeaMap German Combined" zoom="17" name="Haefen_34 17"/>
+        <Map maxTileCoordinate="35185919/23414271" minTileCoordinate="35185408/23413504" mapSource="OpenSeaMap German Combined" zoom="18" name="Haefen_34 18"/>
+    </Layer>
+    <Layer name="Rheinfall">
+        <Map maxTileCoordinate="17580543/11709183" minTileCoordinate="17579776/11708160" mapSource="OpenSeaMap German Combined" zoom="17" name="Rheinfall 17"/>
+        <Map maxTileCoordinate="35161087/23418367" minTileCoordinate="35159552/23416576" mapSource="OpenSeaMap German Combined" zoom="18" name="Rheinfall 18"/>
+    </Layer>
+    <Layer name="Untersee">
+        <Map maxTileCoordinate="17616639/11707391" minTileCoordinate="17615872/11706880" mapSource="OpenSeaMap German Combined" zoom="17" name="Untersee 17"/>
+        <Map maxTileCoordinate="35233023/23414783" minTileCoordinate="35232000/23414016" mapSource="OpenSeaMap German Combined" zoom="18" name="Untersee 18"/>
+    </Layer>
+    <Layer name="Untersee_1">
+        <Map maxTileCoordinate="17611007/11702271" minTileCoordinate="17609984/11701760" mapSource="OpenSeaMap German Combined" zoom="17" name="Untersee_1 17"/>
+        <Map maxTileCoordinate="35221759/23404543" minTileCoordinate="35220224/23403520" mapSource="OpenSeaMap German Combined" zoom="18" name="Untersee_1 18"/>
+    </Layer>
+    <Layer name="Untersee_2">
+        <Map maxTileCoordinate="17612799/11700991" minTileCoordinate="17612288/11700224" mapSource="OpenSeaMap German Combined" zoom="17" name="Untersee_2 17"/>
+        <Map maxTileCoordinate="35225599/23401727" minTileCoordinate="35224576/23400704" mapSource="OpenSeaMap German Combined" zoom="18" name="Untersee_2 18"/>
+    </Layer>
+    <Layer name="Untersee_3">
+        <Map maxTileCoordinate="17613567/11701247" minTileCoordinate="17612800/11700480" mapSource="OpenSeaMap German Combined" zoom="17" name="Untersee_3 17"/>
+        <Map maxTileCoordinate="35227135/23402495" minTileCoordinate="35225856/23401216" mapSource="OpenSeaMap German Combined" zoom="18" name="Untersee_3 18"/>
+    </Layer>
+    <Layer name="Untersee_4">
+        <Map maxTileCoordinate="17615103/11700735" minTileCoordinate="17614336/11700224" mapSource="OpenSeaMap German Combined" zoom="17" name="Untersee_4 17"/>
+        <Map maxTileCoordinate="35229951/23401215" minTileCoordinate="35228928/23400448" mapSource="OpenSeaMap German Combined" zoom="18" name="Untersee_4 18"/>
+    </Layer>
+    <Layer name="Untersee_5">
+        <Map maxTileCoordinate="17616639/11700735" minTileCoordinate="17616128/11700224" mapSource="OpenSeaMap German Combined" zoom="17" name="Untersee_5 17"/>
+        <Map maxTileCoordinate="35233023/23401471" minTileCoordinate="35232256/23400448" mapSource="OpenSeaMap German Combined" zoom="18" name="Untersee_5 18"/>
+    </Layer>
+    <Layer name="Nordufer">
+        <Map maxTileCoordinate="17634303/11710975" minTileCoordinate="17633280/11709952" mapSource="OpenSeaMap German Combined" zoom="17" name="Nordufer 17"/>
+        <Map maxTileCoordinate="35268351/23421695" minTileCoordinate="35266816/23420160" mapSource="OpenSeaMap German Combined" zoom="18" name="Nordufer 18"/>
+    </Layer>
+    <Layer name="Nordufer_1">
+        <Map maxTileCoordinate="17636095/11708415" minTileCoordinate="17635584/11707904" mapSource="OpenSeaMap German Combined" zoom="17" name="Nordufer_1 17"/>
+        <Map maxTileCoordinate="35272191/23416831" minTileCoordinate="35271168/23415808" mapSource="OpenSeaMap German Combined" zoom="18" name="Nordufer_1 18"/>
+    </Layer>
+    <Layer name="Nordufer_2">
+        <Map maxTileCoordinate="17634559/11706623" minTileCoordinate="17634048/11706112" mapSource="OpenSeaMap German Combined" zoom="17" name="Nordufer_2 17"/>
+        <Map maxTileCoordinate="35268863/23412991" minTileCoordinate="35268352/23412224" mapSource="OpenSeaMap German Combined" zoom="18" name="Nordufer_2 18"/>
+    </Layer>
+    <Layer name="Nordufer_3">
+        <Map maxTileCoordinate="17635071/11705087" minTileCoordinate="17634560/11704576" mapSource="OpenSeaMap German Combined" zoom="17" name="Nordufer_3 17"/>
+        <Map maxTileCoordinate="35270143/23410175" minTileCoordinate="35269120/23409152" mapSource="OpenSeaMap German Combined" zoom="18" name="Nordufer_3 18"/>
+    </Layer>
+    <Layer name="Nordufer_4">
+        <Map maxTileCoordinate="17630719/11699711" minTileCoordinate="17630208/11699200" mapSource="OpenSeaMap German Combined" zoom="17" name="Nordufer_4 17"/>
+        <Map maxTileCoordinate="35261439/23399423" minTileCoordinate="35260416/23398656" mapSource="OpenSeaMap German Combined" zoom="18" name="Nordufer_4 18"/>
+    </Layer>
+    <Layer name="Nordufer_5">
+        <Map maxTileCoordinate="17629183/11699199" minTileCoordinate="17628416/11698688" mapSource="OpenSeaMap German Combined" zoom="17" name="Nordufer_5 17"/>
+        <Map maxTileCoordinate="35258111/23398399" minTileCoordinate="35256832/23397632" mapSource="OpenSeaMap German Combined" zoom="18" name="Nordufer_5 18"/>
+    </Layer>
+    <Layer name="Nordufer_6">
+        <Map maxTileCoordinate="17619199/11691519" minTileCoordinate="17618688/11690752" mapSource="OpenSeaMap German Combined" zoom="17" name="Nordufer_6 17"/>
+        <Map maxTileCoordinate="35238399/23382783" minTileCoordinate="35237632/23381504" mapSource="OpenSeaMap German Combined" zoom="18" name="Nordufer_6 18"/>
+    </Layer>
+    <Layer name="Nordufer_7">
+        <Map maxTileCoordinate="17619967/11691775" minTileCoordinate="17618688/11691264" mapSource="OpenSeaMap German Combined" zoom="17" name="Nordufer_7 17"/>
+        <Map maxTileCoordinate="35239679/23383551" minTileCoordinate="35237632/23382528" mapSource="OpenSeaMap German Combined" zoom="18" name="Nordufer_7 18"/>
+    </Layer>
+    <Layer name="Nordufer_8">
+        <Map maxTileCoordinate="17621503/11690239" minTileCoordinate="17620736/11689472" mapSource="OpenSeaMap German Combined" zoom="17" name="Nordufer_8 17"/>
+        <Map maxTileCoordinate="35242751/23380223" minTileCoordinate="35241472/23379200" mapSource="OpenSeaMap German Combined" zoom="18" name="Nordufer_8 18"/>
+    </Layer>
+    <Layer name="Nordufer_9">
+        <Map maxTileCoordinate="17621759/11689983" minTileCoordinate="17621248/11689472" mapSource="OpenSeaMap German Combined" zoom="17" name="Nordufer_9 17"/>
+        <Map maxTileCoordinate="35243519/23379711" minTileCoordinate="35242752/23379200" mapSource="OpenSeaMap German Combined" zoom="18" name="Nordufer_9 18"/>
+    </Layer>
+    <Layer name="Nordufer_10">
+        <Map maxTileCoordinate="17624575/11692287" minTileCoordinate="17623808/11691520" mapSource="OpenSeaMap German Combined" zoom="17" name="Nordufer_10 17"/>
+        <Map maxTileCoordinate="35248895/23384575" minTileCoordinate="35247616/23383296" mapSource="OpenSeaMap German Combined" zoom="18" name="Nordufer_10 18"/>
+    </Layer>
+    <Layer name="Nordufer_11">
+        <Map maxTileCoordinate="17625599/11692799" minTileCoordinate="17625088/11692288" mapSource="OpenSeaMap German Combined" zoom="17" name="Nordufer_11 17"/>
+        <Map maxTileCoordinate="35251199/23385599" minTileCoordinate="35250176/23384832" mapSource="OpenSeaMap German Combined" zoom="18" name="Nordufer_11 18"/>
+    </Layer>
+    <Layer name="Nordufer_12">
+        <Map maxTileCoordinate="17629951/11696383" minTileCoordinate="17629440/11695872" mapSource="OpenSeaMap German Combined" zoom="17" name="Nordufer_12 17"/>
+        <Map maxTileCoordinate="35259647/23392511" minTileCoordinate="35258880/23392000" mapSource="OpenSeaMap German Combined" zoom="18" name="Nordufer_12 18"/>
+    </Layer>
+    <Layer name="Nordufer_13">
+        <Map maxTileCoordinate="17631487/11696895" minTileCoordinate="17630976/11696384" mapSource="OpenSeaMap German Combined" zoom="17" name="Nordufer_13 17"/>
+        <Map maxTileCoordinate="35262719/23393535" minTileCoordinate="35261952/23393024" mapSource="OpenSeaMap German Combined" zoom="18" name="Nordufer_13 18"/>
+    </Layer>
+    <Layer name="Nordufer_14">
+        <Map maxTileCoordinate="17631743/11697151" minTileCoordinate="17631232/11696640" mapSource="OpenSeaMap German Combined" zoom="17" name="Nordufer_14 17"/>
+        <Map maxTileCoordinate="35263231/23394047" minTileCoordinate="35262464/23393536" mapSource="OpenSeaMap German Combined" zoom="18" name="Nordufer_14 18"/>
+    </Layer>
+    <Layer name="Nordufer_15">
+        <Map maxTileCoordinate="17633279/11697919" minTileCoordinate="17632512/11697408" mapSource="OpenSeaMap German Combined" zoom="17" name="Nordufer_15 17"/>
+        <Map maxTileCoordinate="35266303/23395839" minTileCoordinate="35265024/23394816" mapSource="OpenSeaMap German Combined" zoom="18" name="Nordufer_15 18"/>
+    </Layer>
+    <Layer name="Nordufer_16">
+        <Map maxTileCoordinate="17637631/11702783" minTileCoordinate="17636864/11702272" mapSource="OpenSeaMap German Combined" zoom="17" name="Nordufer_16 17"/>
+        <Map maxTileCoordinate="35275263/23405567" minTileCoordinate="35273984/23404544" mapSource="OpenSeaMap German Combined" zoom="18" name="Nordufer_16 18"/>
+    </Layer>
+    <Layer name="Nordufer_17">
+        <Map maxTileCoordinate="17641983/11707391" minTileCoordinate="17640704/11706368" mapSource="OpenSeaMap German Combined" zoom="17" name="Nordufer_17 17"/>
+        <Map maxTileCoordinate="35283967/23414527" minTileCoordinate="35281664/23412736" mapSource="OpenSeaMap German Combined" zoom="18" name="Nordufer_17 18"/>
+    </Layer>
+    <Layer name="Nordufer_18">
+        <Map maxTileCoordinate="17642751/11707647" minTileCoordinate="17642240/11707136" mapSource="OpenSeaMap German Combined" zoom="17" name="Nordufer_18 17"/>
+        <Map maxTileCoordinate="35285503/23415295" minTileCoordinate="35284480/23414528" mapSource="OpenSeaMap German Combined" zoom="18" name="Nordufer_18 18"/>
+    </Layer>
+    <Layer name="Nordufer_19">
+        <Map maxTileCoordinate="17643263/11708159" minTileCoordinate="17642752/11707904" mapSource="OpenSeaMap German Combined" zoom="17" name="Nordufer_19 17"/>
+        <Map maxTileCoordinate="35286527/23416319" minTileCoordinate="35285760/23415808" mapSource="OpenSeaMap German Combined" zoom="18" name="Nordufer_19 18"/>
+    </Layer>
+    <Layer name="Nordufer_20">
+        <Map maxTileCoordinate="17645567/11709439" minTileCoordinate="17645312/11709184" mapSource="OpenSeaMap German Combined" zoom="17" name="Nordufer_20 17"/>
+        <Map maxTileCoordinate="35291135/23418879" minTileCoordinate="35290624/23418368" mapSource="OpenSeaMap German Combined" zoom="18" name="Nordufer_20 18"/>
+    </Layer>
+    <Layer name="Nordufer_21">
+        <Map maxTileCoordinate="17647359/11710463" minTileCoordinate="17646848/11709952" mapSource="OpenSeaMap German Combined" zoom="17" name="Nordufer_21 17"/>
+        <Map maxTileCoordinate="35294719/23420927" minTileCoordinate="35293696/23419904" mapSource="OpenSeaMap German Combined" zoom="18" name="Nordufer_21 18"/>
+    </Layer>
+    <Layer name="Nordufer_22">
+        <Map maxTileCoordinate="17650687/11711231" minTileCoordinate="17650176/11710464" mapSource="OpenSeaMap German Combined" zoom="17" name="Nordufer_22 17"/>
+        <Map maxTileCoordinate="35301119/23422463" minTileCoordinate="35300352/23421184" mapSource="OpenSeaMap German Combined" zoom="18" name="Nordufer_22 18"/>
+    </Layer>
+    <Layer name="Nordufer_23">
+        <Map maxTileCoordinate="17651711/11710719" minTileCoordinate="17650944/11710208" mapSource="OpenSeaMap German Combined" zoom="17" name="Nordufer_23 17"/>
+        <Map maxTileCoordinate="35303167/23421439" minTileCoordinate="35302144/23420672" mapSource="OpenSeaMap German Combined" zoom="18" name="Nordufer_23 18"/>
+    </Layer>
+    <Layer name="Nordufer_24">
+        <Map maxTileCoordinate="17654527/11710463" minTileCoordinate="17654016/11709952" mapSource="OpenSeaMap German Combined" zoom="17" name="Nordufer_24 17"/>
+        <Map maxTileCoordinate="35308799/23420927" minTileCoordinate="35308288/23419904" mapSource="OpenSeaMap German Combined" zoom="18" name="Nordufer_24 18"/>
+    </Layer>
+    <Layer name="Nordufer_25">
+        <Map maxTileCoordinate="17660415/11712767" minTileCoordinate="17659648/11712256" mapSource="OpenSeaMap German Combined" zoom="17" name="Nordufer_25 17"/>
+        <Map maxTileCoordinate="35320831/23425279" minTileCoordinate="35319552/23424512" mapSource="OpenSeaMap German Combined" zoom="18" name="Nordufer_25 18"/>
+    </Layer>
+    <Layer name="Nordufer_26">
+        <Map maxTileCoordinate="17660927/11712767" minTileCoordinate="17660416/11712512" mapSource="OpenSeaMap German Combined" zoom="17" name="Nordufer_26 17"/>
+        <Map maxTileCoordinate="35321599/23425535" minTileCoordinate="35320832/23425024" mapSource="OpenSeaMap German Combined" zoom="18" name="Nordufer_26 18"/>
+    </Layer>
+    <Layer name="Nordufer_27">
+        <Map maxTileCoordinate="17661695/11713023" minTileCoordinate="17660672/11712256" mapSource="OpenSeaMap German Combined" zoom="17" name="Nordufer_27 17"/>
+        <Map maxTileCoordinate="35323135/23425791" minTileCoordinate="35321600/23424512" mapSource="OpenSeaMap German Combined" zoom="18" name="Nordufer_27 18"/>
+    </Layer>
+    <Layer name="Nordufer_28">
+        <Map maxTileCoordinate="17666559/11720447" minTileCoordinate="17666048/11719936" mapSource="OpenSeaMap German Combined" zoom="17" name="Nordufer_28 17"/>
+        <Map maxTileCoordinate="35333119/23440895" minTileCoordinate="35332352/23439872" mapSource="OpenSeaMap German Combined" zoom="18" name="Nordufer_28 18"/>
+    </Layer>
+    <Layer name="Nordufer_29">
+        <Map maxTileCoordinate="17668607/11721727" minTileCoordinate="17667072/11720448" mapSource="OpenSeaMap German Combined" zoom="17" name="Nordufer_29 17"/>
+        <Map maxTileCoordinate="35337215/23443455" minTileCoordinate="35334400/23441152" mapSource="OpenSeaMap German Combined" zoom="18" name="Nordufer_29 18"/>
+    </Layer>
+    <Layer name="Nordufer_30">
+        <Map maxTileCoordinate="17671423/11721471" minTileCoordinate="17670912/11720960" mapSource="OpenSeaMap German Combined" zoom="17" name="Nordufer_30 17"/>
+        <Map maxTileCoordinate="35342591/23442943" minTileCoordinate="35341824/23441920" mapSource="OpenSeaMap German Combined" zoom="18" name="Nordufer_30 18"/>
+    </Layer>
+    <Layer name="Nordufer_31">
+        <Map maxTileCoordinate="17675519/11724543" minTileCoordinate="17674496/11723776" mapSource="OpenSeaMap German Combined" zoom="17" name="Nordufer_31 17"/>
+        <Map maxTileCoordinate="35351039/23449087" minTileCoordinate="35348992/23447552" mapSource="OpenSeaMap German Combined" zoom="18" name="Nordufer_31 18"/>
+    </Layer>
+    <Layer name="Nordufer_32">
+        <Map maxTileCoordinate="17676287/11725055" minTileCoordinate="17675776/11724544" mapSource="OpenSeaMap German Combined" zoom="17" name="Nordufer_32 17"/>
+        <Map maxTileCoordinate="35352575/23449855" minTileCoordinate="35351552/23449344" mapSource="OpenSeaMap German Combined" zoom="18" name="Nordufer_32 18"/>
+    </Layer>
+    <Layer name="Nordufer_33">
+        <Map maxTileCoordinate="17681151/11728127" minTileCoordinate="17678848/11725824" mapSource="OpenSeaMap German Combined" zoom="17" name="Nordufer_33 17"/>
+        <Map maxTileCoordinate="35362303/23456255" minTileCoordinate="35357696/23451648" mapSource="OpenSeaMap German Combined" zoom="18" name="Nordufer_33 18"/>
+    </Layer>
+    <Layer name="Nordufer_34">
+        <Map maxTileCoordinate="17684479/11728895" minTileCoordinate="17683712/11728128" mapSource="OpenSeaMap German Combined" zoom="17" name="Nordufer_34 17"/>
+        <Map maxTileCoordinate="35368959/23457791" minTileCoordinate="35367424/23456512" mapSource="OpenSeaMap German Combined" zoom="18" name="Nordufer_34 18"/>
+    </Layer>
+    <Layer name="Oesterreich">
+        <Map maxTileCoordinate="17685503/11729663" minTileCoordinate="17684736/11728896" mapSource="OpenSeaMap German Combined" zoom="17" name="Oesterreich 17"/>
+        <Map maxTileCoordinate="35371007/23459327" minTileCoordinate="35369728/23458048" mapSource="OpenSeaMap German Combined" zoom="18" name="Oesterreich 18"/>
+    </Layer>
+    <Layer name="Oesterreich_1">
+        <Map maxTileCoordinate="17686271/11732735" minTileCoordinate="17685504/11731968" mapSource="OpenSeaMap German Combined" zoom="17" name="Oesterreich_1 17"/>
+        <Map maxTileCoordinate="35372287/23465471" minTileCoordinate="35371008/23463936" mapSource="OpenSeaMap German Combined" zoom="18" name="Oesterreich_1 18"/>
+    </Layer>
+    <Layer name="Oesterreich_2">
+        <Map maxTileCoordinate="17685503/11732991" minTileCoordinate="17684736/11732480" mapSource="OpenSeaMap German Combined" zoom="17" name="Oesterreich_2 17"/>
+        <Map maxTileCoordinate="35371007/23465727" minTileCoordinate="35369728/23464960" mapSource="OpenSeaMap German Combined" zoom="18" name="Oesterreich_2 18"/>
+    </Layer>
+    <Layer name="Oesterreich_3">
+        <Map maxTileCoordinate="17684479/11732735" minTileCoordinate="17683456/11731968" mapSource="OpenSeaMap German Combined" zoom="17" name="Oesterreich_3 17"/>
+        <Map maxTileCoordinate="35368703/23465471" minTileCoordinate="35366912/23464192" mapSource="OpenSeaMap German Combined" zoom="18" name="Oesterreich_3 18"/>
+    </Layer>
+    <Layer name="Oesterreich_4">
+        <Map maxTileCoordinate="17683199/11732735" minTileCoordinate="17682688/11732224" mapSource="OpenSeaMap German Combined" zoom="17" name="Oesterreich_4 17"/>
+        <Map maxTileCoordinate="35366399/23465215" minTileCoordinate="35365376/23464448" mapSource="OpenSeaMap German Combined" zoom="18" name="Oesterreich_4 18"/>
+    </Layer>
+    <Layer name="Oesterreich_5">
+        <Map maxTileCoordinate="17680895/11734783" minTileCoordinate="17678848/11732480" mapSource="OpenSeaMap German Combined" zoom="17" name="Oesterreich_5 17"/>
+        <Map maxTileCoordinate="35361791/23469311" minTileCoordinate="35357952/23464960" mapSource="OpenSeaMap German Combined" zoom="18" name="Oesterreich_5 18"/>
+    </Layer>
+    <Layer name="Oesterreich_6">
+        <Map maxTileCoordinate="17680895/11734783" minTileCoordinate="17678848/11732480" mapSource="OpenSeaMap German Combined" zoom="17" name="Oesterreich_6 17"/>
+        <Map maxTileCoordinate="35361791/23469311" minTileCoordinate="35357952/23464960" mapSource="OpenSeaMap German Combined" zoom="18" name="Oesterreich_6 18"/>
+    </Layer>
+    <Layer name="Oesterreich_7">
+        <Map maxTileCoordinate="17671167/11735295" minTileCoordinate="17670400/11734016" mapSource="OpenSeaMap German Combined" zoom="17" name="Oesterreich_7 17"/>
+        <Map maxTileCoordinate="35342335/23470335" minTileCoordinate="35340800/23468032" mapSource="OpenSeaMap German Combined" zoom="18" name="Oesterreich_7 18"/>
+    </Layer>
+    <Layer name="Oesterreich_8">
+        <Map maxTileCoordinate="17669119/11734015" minTileCoordinate="17667584/11732224" mapSource="OpenSeaMap German Combined" zoom="17" name="Oesterreich_8 17"/>
+        <Map maxTileCoordinate="35337983/23468031" minTileCoordinate="35335168/23464448" mapSource="OpenSeaMap German Combined" zoom="18" name="Oesterreich_8 18"/>
+    </Layer>
+    <Layer name="Oesterreich_9">
+        <Map maxTileCoordinate="17670911/11736319" minTileCoordinate="17670144/11735808" mapSource="OpenSeaMap German Combined" zoom="17" name="Oesterreich_9 17"/>
+        <Map maxTileCoordinate="35341567/23472639" minTileCoordinate="35340544/23471616" mapSource="OpenSeaMap German Combined" zoom="18" name="Oesterreich_9 18"/>
+    </Layer>
+    <Layer name="Rhein">
+        <Map maxTileCoordinate="1101823/732159" minTileCoordinate="1098496/731136" mapSource="OpenSeaMap German Combined" zoom="13" name="Rhein 13"/>
+        <Map maxTileCoordinate="2203391/1464319" minTileCoordinate="2197248/1462272" mapSource="OpenSeaMap German Combined" zoom="14" name="Rhein 14"/>
+        <Map maxTileCoordinate="4406783/2928639" minTileCoordinate="4394752/2924544" mapSource="OpenSeaMap German Combined" zoom="15" name="Rhein 15"/>
+        <Map maxTileCoordinate="8813567/5857279" minTileCoordinate="8789504/5849088" mapSource="OpenSeaMap German Combined" zoom="16" name="Rhein 16"/>
+    </Layer>
+    <Layer name="Konstanz">
+        <Map maxTileCoordinate="1102591/732415" minTileCoordinate="1101568/731392" mapSource="OpenSeaMap German Combined" zoom="13" name="Konstanz 13"/>
+        <Map maxTileCoordinate="2204927/1464575" minTileCoordinate="2203136/1463040" mapSource="OpenSeaMap German Combined" zoom="14" name="Konstanz 14"/>
+        <Map maxTileCoordinate="4409855/2929151" minTileCoordinate="4406272/2926080" mapSource="OpenSeaMap German Combined" zoom="15" name="Konstanz 15"/>
+        <Map maxTileCoordinate="8819711/5858303" minTileCoordinate="8812800/5852160" mapSource="OpenSeaMap German Combined" zoom="16" name="Konstanz 16"/>
+    </Layer>
+    <Layer name="Untersee_6">
+        <Map maxTileCoordinate="1101823/731135" minTileCoordinate="1101056/730368" mapSource="OpenSeaMap German Combined" zoom="13" name="Untersee_6 13"/>
+        <Map maxTileCoordinate="2203647/1462271" minTileCoordinate="2202112/1460736" mapSource="OpenSeaMap German Combined" zoom="14" name="Untersee_6 14"/>
+        <Map maxTileCoordinate="4407295/2924287" minTileCoordinate="4404480/2921728" mapSource="OpenSeaMap German Combined" zoom="15" name="Untersee_6 15"/>
+        <Map maxTileCoordinate="8814591/5848319" minTileCoordinate="8808960/5843712" mapSource="OpenSeaMap German Combined" zoom="16" name="Untersee_6 16"/>
+    </Layer>
+    <Layer name="Untersee_7">
+        <Map maxTileCoordinate="1102591/731391" minTileCoordinate="1101312/730880" mapSource="OpenSeaMap German Combined" zoom="13" name="Untersee_7 13"/>
+        <Map maxTileCoordinate="2204927/1462783" minTileCoordinate="2202880/1461760" mapSource="OpenSeaMap German Combined" zoom="14" name="Untersee_7 14"/>
+        <Map maxTileCoordinate="4409855/2925311" minTileCoordinate="4405760/2923520" mapSource="OpenSeaMap German Combined" zoom="15" name="Untersee_7 15"/>
+        <Map maxTileCoordinate="8819455/5850623" minTileCoordinate="8811520/5847040" mapSource="OpenSeaMap German Combined" zoom="16" name="Untersee_7 16"/>
+    </Layer>
+    <Layer name="Untersee_8">
+        <Map maxTileCoordinate="1102847/731903" minTileCoordinate="1101824/731136" mapSource="OpenSeaMap German Combined" zoom="13" name="Untersee_8 13"/>
+        <Map maxTileCoordinate="2205439/1463551" minTileCoordinate="2203648/1462272" mapSource="OpenSeaMap German Combined" zoom="14" name="Untersee_8 14"/>
+        <Map maxTileCoordinate="4410879/2927103" minTileCoordinate="4407552/2924800" mapSource="OpenSeaMap German Combined" zoom="15" name="Untersee_8 15"/>
+        <Map maxTileCoordinate="8821759/5854207" minTileCoordinate="8815360/5849600" mapSource="OpenSeaMap German Combined" zoom="16" name="Untersee_8 16"/>
+    </Layer>
+    <Layer name="Nordufer_35">
+        <Map maxTileCoordinate="1102847/731903" minTileCoordinate="1102336/731392" mapSource="OpenSeaMap German Combined" zoom="13" name="Nordufer_35 13"/>
+        <Map maxTileCoordinate="2205695/1463807" minTileCoordinate="2204928/1463040" mapSource="OpenSeaMap German Combined" zoom="14" name="Nordufer_35 14"/>
+        <Map maxTileCoordinate="4411135/2927359" minTileCoordinate="4410112/2926336" mapSource="OpenSeaMap German Combined" zoom="15" name="Nordufer_35 15"/>
+        <Map maxTileCoordinate="8822271/5854463" minTileCoordinate="8820224/5852672" mapSource="OpenSeaMap German Combined" zoom="16" name="Nordufer_35 16"/>
+    </Layer>
+    <Layer name="Nordufer_36">
+        <Map maxTileCoordinate="1103103/732159" minTileCoordinate="1102592/731648" mapSource="OpenSeaMap German Combined" zoom="13" name="Nordufer_36 13"/>
+        <Map maxTileCoordinate="2205951/1464063" minTileCoordinate="2205184/1463296" mapSource="OpenSeaMap German Combined" zoom="14" name="Nordufer_36 14"/>
+        <Map maxTileCoordinate="4411903/2927871" minTileCoordinate="4410624/2926592" mapSource="OpenSeaMap German Combined" zoom="15" name="Nordufer_36 15"/>
+        <Map maxTileCoordinate="8823551/5855487" minTileCoordinate="8821248/5853440" mapSource="OpenSeaMap German Combined" zoom="16" name="Nordufer_36 16"/>
+    </Layer>
+    <Layer name="Nordufer_37">
+        <Map maxTileCoordinate="1103615/732159" minTileCoordinate="1102592/731648" mapSource="OpenSeaMap German Combined" zoom="13" name="Nordufer_37 13"/>
+        <Map maxTileCoordinate="2206975/1464063" minTileCoordinate="2205440/1463552" mapSource="OpenSeaMap German Combined" zoom="14" name="Nordufer_37 14"/>
+        <Map maxTileCoordinate="4413951/2928127" minTileCoordinate="4411136/2927104" mapSource="OpenSeaMap German Combined" zoom="15" name="Nordufer_37 15"/>
+        <Map maxTileCoordinate="8827903/5855999" minTileCoordinate="8822272/5854208" mapSource="OpenSeaMap German Combined" zoom="16" name="Nordufer_37 16"/>
+    </Layer>
+    <Layer name="Nordufer_38">
+        <Map maxTileCoordinate="1103871/732159" minTileCoordinate="1103360/731648" mapSource="OpenSeaMap German Combined" zoom="13" name="Nordufer_38 13"/>
+        <Map maxTileCoordinate="2207487/1464063" minTileCoordinate="2206720/1463552" mapSource="OpenSeaMap German Combined" zoom="14" name="Nordufer_38 14"/>
+        <Map maxTileCoordinate="4414719/2928127" minTileCoordinate="4413696/2927360" mapSource="OpenSeaMap German Combined" zoom="15" name="Nordufer_38 15"/>
+        <Map maxTileCoordinate="8829183/5856255" minTileCoordinate="8827392/5854976" mapSource="OpenSeaMap German Combined" zoom="16" name="Nordufer_38 16"/>
+    </Layer>
+    <Layer name="Nordufer_39">
+        <Map maxTileCoordinate="1104127/732159" minTileCoordinate="1103360/731904" mapSource="OpenSeaMap German Combined" zoom="13" name="Nordufer_39 13"/>
+        <Map maxTileCoordinate="2207999/1464319" minTileCoordinate="2206976/1463808" mapSource="OpenSeaMap German Combined" zoom="14" name="Nordufer_39 14"/>
+        <Map maxTileCoordinate="4415999/2928639" minTileCoordinate="4414208/2927616" mapSource="OpenSeaMap German Combined" zoom="15" name="Nordufer_39 15"/>
+        <Map maxTileCoordinate="8831743/5857023" minTileCoordinate="8828416/5855488" mapSource="OpenSeaMap German Combined" zoom="16" name="Nordufer_39 16"/>
+    </Layer>
+    <Layer name="Nordufer_40">
+        <Map maxTileCoordinate="1104127/732415" minTileCoordinate="1103872/731904" mapSource="OpenSeaMap German Combined" zoom="13" name="Nordufer_40 13"/>
+        <Map maxTileCoordinate="2208255/1464575" minTileCoordinate="2207744/1464064" mapSource="OpenSeaMap German Combined" zoom="14" name="Nordufer_40 14"/>
+        <Map maxTileCoordinate="4416511/2928895" minTileCoordinate="4415488/2928128" mapSource="OpenSeaMap German Combined" zoom="15" name="Nordufer_40 15"/>
+        <Map maxTileCoordinate="8832767/5857791" minTileCoordinate="8831232/5856256" mapSource="OpenSeaMap German Combined" zoom="16" name="Nordufer_40 16"/>
+    </Layer>
+    <Layer name="Nordufer_41">
+        <Map maxTileCoordinate="1104383/732671" minTileCoordinate="1103872/731904" mapSource="OpenSeaMap German Combined" zoom="13" name="Nordufer_41 13"/>
+        <Map maxTileCoordinate="2208511/1465087" minTileCoordinate="2207744/1464064" mapSource="OpenSeaMap German Combined" zoom="14" name="Nordufer_41 14"/>
+        <Map maxTileCoordinate="4416767/2930175" minTileCoordinate="4415744/2928384" mapSource="OpenSeaMap German Combined" zoom="15" name="Nordufer_41 15"/>
+        <Map maxTileCoordinate="8833279/5860095" minTileCoordinate="8831744/5857024" mapSource="OpenSeaMap German Combined" zoom="16" name="Nordufer_41 16"/>
+    </Layer>
+    <Layer name="Nordufer_42">
+        <Map maxTileCoordinate="1104383/732671" minTileCoordinate="1103872/732416" mapSource="OpenSeaMap German Combined" zoom="13" name="Nordufer_42 13"/>
+        <Map maxTileCoordinate="2208767/1465343" minTileCoordinate="2208000/1464832" mapSource="OpenSeaMap German Combined" zoom="14" name="Nordufer_42 14"/>
+        <Map maxTileCoordinate="4417279/2930687" minTileCoordinate="4416000/2929664" mapSource="OpenSeaMap German Combined" zoom="15" name="Nordufer_42 15"/>
+        <Map maxTileCoordinate="8834559/5861119" minTileCoordinate="8832256/5859328" mapSource="OpenSeaMap German Combined" zoom="16" name="Nordufer_42 16"/>
+    </Layer>
+    <Layer name="Nordufer_43">
+        <Map maxTileCoordinate="1104639/732671" minTileCoordinate="1104128/732416" mapSource="OpenSeaMap German Combined" zoom="13" name="Nordufer_43 13"/>
+        <Map maxTileCoordinate="2209279/1465343" minTileCoordinate="2208512/1464832" mapSource="OpenSeaMap German Combined" zoom="14" name="Nordufer_43 14"/>
+        <Map maxTileCoordinate="4418303/2930687" minTileCoordinate="4417024/2929920" mapSource="OpenSeaMap German Combined" zoom="15" name="Nordufer_43 15"/>
+        <Map maxTileCoordinate="8836607/5861119" minTileCoordinate="8834304/5860096" mapSource="OpenSeaMap German Combined" zoom="16" name="Nordufer_43 16"/>
+    </Layer>
+    <Layer name="Nordufer_44">
+        <Map maxTileCoordinate="1104639/732927" minTileCoordinate="1104384/732416" mapSource="OpenSeaMap German Combined" zoom="13" name="Nordufer_44 13"/>
+        <Map maxTileCoordinate="2209279/1465599" minTileCoordinate="2208768/1465088" mapSource="OpenSeaMap German Combined" zoom="14" name="Nordufer_44 14"/>
+        <Map maxTileCoordinate="4418559/2931199" minTileCoordinate="4417792/2930176" mapSource="OpenSeaMap German Combined" zoom="15" name="Nordufer_44 15"/>
+        <Map maxTileCoordinate="8837119/5862143" minTileCoordinate="8835840/5860608" mapSource="OpenSeaMap German Combined" zoom="16" name="Nordufer_44 16"/>
+    </Layer>
+    <Layer name="Nordufer_45">
+        <Map maxTileCoordinate="1104895/732927" minTileCoordinate="1104384/732672" mapSource="OpenSeaMap German Combined" zoom="13" name="Nordufer_45 13"/>
+        <Map maxTileCoordinate="2209791/1465855" minTileCoordinate="2209024/1465344" mapSource="OpenSeaMap German Combined" zoom="14" name="Nordufer_45 14"/>
+        <Map maxTileCoordinate="4419327/2931455" minTileCoordinate="4418304/2930688" mapSource="OpenSeaMap German Combined" zoom="15" name="Nordufer_45 15"/>
+        <Map maxTileCoordinate="8838655/5862911" minTileCoordinate="8836608/5861376" mapSource="OpenSeaMap German Combined" zoom="16" name="Nordufer_45 16"/>
+    </Layer>
+    <Layer name="Nordufer_46">
+        <Map maxTileCoordinate="1105151/732927" minTileCoordinate="1104640/732672" mapSource="OpenSeaMap German Combined" zoom="13" name="Nordufer_46 13"/>
+        <Map maxTileCoordinate="2210303/1465855" minTileCoordinate="2209536/1465600" mapSource="OpenSeaMap German Combined" zoom="14" name="Nordufer_46 14"/>
+        <Map maxTileCoordinate="4420351/2931711" minTileCoordinate="4419072/2931200" mapSource="OpenSeaMap German Combined" zoom="15" name="Nordufer_46 15"/>
+        <Map maxTileCoordinate="8840447/5863423" minTileCoordinate="8838144/5862400" mapSource="OpenSeaMap German Combined" zoom="16" name="Nordufer_46 16"/>
+    </Layer>
+    <Layer name="Nordufer_47">
+        <Map maxTileCoordinate="1105407/733183" minTileCoordinate="1104896/732672" mapSource="OpenSeaMap German Combined" zoom="13" name="Nordufer_47 13"/>
+        <Map maxTileCoordinate="2210559/1466111" minTileCoordinate="2209792/1465600" mapSource="OpenSeaMap German Combined" zoom="14" name="Nordufer_47 14"/>
+        <Map maxTileCoordinate="4420863/2932223" minTileCoordinate="4419584/2931200" mapSource="OpenSeaMap German Combined" zoom="15" name="Nordufer_47 15"/>
+        <Map maxTileCoordinate="8841471/5864447" minTileCoordinate="8839168/5862400" mapSource="OpenSeaMap German Combined" zoom="16" name="Nordufer_47 16"/>
+    </Layer>
+    <Layer name="Nordufer_48">
+        <Map maxTileCoordinate="1105407/733183" minTileCoordinate="1105152/732672" mapSource="OpenSeaMap German Combined" zoom="13" name="Nordufer_48 13"/>
+        <Map maxTileCoordinate="2210815/1466367" minTileCoordinate="2210304/1465600" mapSource="OpenSeaMap German Combined" zoom="14" name="Nordufer_48 14"/>
+        <Map maxTileCoordinate="4421375/2932479" minTileCoordinate="4420608/2931456" mapSource="OpenSeaMap German Combined" zoom="15" name="Nordufer_48 15"/>
+        <Map maxTileCoordinate="8842495/5864703" minTileCoordinate="8841216/5862912" mapSource="OpenSeaMap German Combined" zoom="16" name="Nordufer_48 16"/>
+    </Layer>
+    <Layer name="Oesterreich_10">
+        <Map maxTileCoordinate="1105407/733183" minTileCoordinate="1105152/732928" mapSource="OpenSeaMap German Combined" zoom="13" name="Oesterreich_10 13"/>
+        <Map maxTileCoordinate="2210815/1466367" minTileCoordinate="2210304/1465856" mapSource="OpenSeaMap German Combined" zoom="14" name="Oesterreich_10 14"/>
+        <Map maxTileCoordinate="4421631/2932735" minTileCoordinate="4420864/2931968" mapSource="OpenSeaMap German Combined" zoom="15" name="Oesterreich_10 15"/>
+        <Map maxTileCoordinate="8843263/5865215" minTileCoordinate="8841728/5863936" mapSource="OpenSeaMap German Combined" zoom="16" name="Oesterreich_10 16"/>
+    </Layer>
+    <Layer name="Oesterreich_11">
+        <Map maxTileCoordinate="1105663/733439" minTileCoordinate="1105152/732928" mapSource="OpenSeaMap German Combined" zoom="13" name="Oesterreich_11 13"/>
+        <Map maxTileCoordinate="2211071/1466879" minTileCoordinate="2210560/1466112" mapSource="OpenSeaMap German Combined" zoom="14" name="Oesterreich_11 14"/>
+        <Map maxTileCoordinate="4421887/2933503" minTileCoordinate="4421120/2932224" mapSource="OpenSeaMap German Combined" zoom="15" name="Oesterreich_11 15"/>
+        <Map maxTileCoordinate="8843775/5867007" minTileCoordinate="8842496/5864448" mapSource="OpenSeaMap German Combined" zoom="16" name="Oesterreich_11 16"/>
+    </Layer>
+    <Layer name="Oesterreich_12">
+        <Map maxTileCoordinate="1105663/733439" minTileCoordinate="1104896/733184" mapSource="OpenSeaMap German Combined" zoom="13" name="Oesterreich_12 13"/>
+        <Map maxTileCoordinate="2211071/1466879" minTileCoordinate="2210048/1466368" mapSource="OpenSeaMap German Combined" zoom="14" name="Oesterreich_12 14"/>
+        <Map maxTileCoordinate="4421887/2933759" minTileCoordinate="4420096/2932736" mapSource="OpenSeaMap German Combined" zoom="15" name="Oesterreich_12 15"/>
+        <Map maxTileCoordinate="8843519/5867519" minTileCoordinate="8840192/5865728" mapSource="OpenSeaMap German Combined" zoom="16" name="Oesterreich_12 16"/>
+    </Layer>
+    <Layer name="Oesterreich_13">
+        <Map maxTileCoordinate="1105151/733695" minTileCoordinate="1104640/733184" mapSource="OpenSeaMap German Combined" zoom="13" name="Oesterreich_13 13"/>
+        <Map maxTileCoordinate="2210303/1467135" minTileCoordinate="2209536/1466368" mapSource="OpenSeaMap German Combined" zoom="14" name="Oesterreich_13 14"/>
+        <Map maxTileCoordinate="4420607/2934015" minTileCoordinate="4419328/2932736" mapSource="OpenSeaMap German Combined" zoom="15" name="Oesterreich_13 15"/>
+        <Map maxTileCoordinate="8840959/5867775" minTileCoordinate="8838912/5865472" mapSource="OpenSeaMap German Combined" zoom="16" name="Oesterreich_13 16"/>
+    </Layer>
+    <Layer name="Oesterreich_14">
+        <Map maxTileCoordinate="1105151/733695" minTileCoordinate="1104384/732928" mapSource="OpenSeaMap German Combined" zoom="13" name="Oesterreich_14 13"/>
+        <Map maxTileCoordinate="2210047/1467391" minTileCoordinate="2209024/1466112" mapSource="OpenSeaMap German Combined" zoom="14" name="Oesterreich_14 14"/>
+        <Map maxTileCoordinate="4420095/2934783" minTileCoordinate="4418304/2932224" mapSource="OpenSeaMap German Combined" zoom="15" name="Oesterreich_14 15"/>
+        <Map maxTileCoordinate="8839935/5869567" minTileCoordinate="8836864/5864448" mapSource="OpenSeaMap German Combined" zoom="16" name="Oesterreich_14 16"/>
+    </Layer>
+    <Layer name="Schweiz">
+        <Map maxTileCoordinate="1104127/733695" minTileCoordinate="1103616/733184" mapSource="OpenSeaMap German Combined" zoom="13" name="Schweiz 13"/>
+        <Map maxTileCoordinate="2207999/1467391" minTileCoordinate="2207232/1466624" mapSource="OpenSeaMap German Combined" zoom="14" name="Schweiz 14"/>
+        <Map maxTileCoordinate="4415743/2934527" minTileCoordinate="4414720/2933248" mapSource="OpenSeaMap German Combined" zoom="15" name="Schweiz 15"/>
+        <Map maxTileCoordinate="8831231/5868799" minTileCoordinate="8829440/5866496" mapSource="OpenSeaMap German Combined" zoom="16" name="Schweiz 16"/>
+    </Layer>
+    <Layer name="Schweiz_1">
+        <Map maxTileCoordinate="1103871/733439" minTileCoordinate="1103360/732928" mapSource="OpenSeaMap German Combined" zoom="13" name="Schweiz_1 13"/>
+        <Map maxTileCoordinate="2207743/1466879" minTileCoordinate="2206720/1466112" mapSource="OpenSeaMap German Combined" zoom="14" name="Schweiz_1 14"/>
+        <Map maxTileCoordinate="4415231/2933759" minTileCoordinate="4413696/2932224" mapSource="OpenSeaMap German Combined" zoom="15" name="Schweiz_1 15"/>
+        <Map maxTileCoordinate="8830207/5867519" minTileCoordinate="8827392/5864704" mapSource="OpenSeaMap German Combined" zoom="16" name="Schweiz_1 16"/>
+    </Layer>
+    <Layer name="Schweiz_2">
+        <Map maxTileCoordinate="1103615/733439" minTileCoordinate="1103104/732672" mapSource="OpenSeaMap German Combined" zoom="13" name="Schweiz_2 13"/>
+        <Map maxTileCoordinate="2207231/1466623" minTileCoordinate="2206464/1465600" mapSource="OpenSeaMap German Combined" zoom="14" name="Schweiz_2 14"/>
+        <Map maxTileCoordinate="4414207/2932991" minTileCoordinate="4412928/2931456" mapSource="OpenSeaMap German Combined" zoom="15" name="Schweiz_2 15"/>
+        <Map maxTileCoordinate="8828159/5865727" minTileCoordinate="8825856/5863168" mapSource="OpenSeaMap German Combined" zoom="16" name="Schweiz_2 16"/>
+    </Layer>
+    <Layer name="Schweiz_3">
+        <Map maxTileCoordinate="1103615/733183" minTileCoordinate="1103104/732416" mapSource="OpenSeaMap German Combined" zoom="13" name="Schweiz_3 13"/>
+        <Map maxTileCoordinate="2206975/1466111" minTileCoordinate="2206208/1465088" mapSource="OpenSeaMap German Combined" zoom="14" name="Schweiz_3 14"/>
+        <Map maxTileCoordinate="4413695/2931967" minTileCoordinate="4412416/2930432" mapSource="OpenSeaMap German Combined" zoom="15" name="Schweiz_3 15"/>
+        <Map maxTileCoordinate="8827135/5863935" minTileCoordinate="8825088/5861120" mapSource="OpenSeaMap German Combined" zoom="16" name="Schweiz_3 16"/>
+    </Layer>
+    <Layer name="Schweiz_4">
+        <Map maxTileCoordinate="1103359/732927" minTileCoordinate="1102848/732416" mapSource="OpenSeaMap German Combined" zoom="13" name="Schweiz_4 13"/>
+        <Map maxTileCoordinate="2206463/1465599" minTileCoordinate="2205696/1464832" mapSource="OpenSeaMap German Combined" zoom="14" name="Schweiz_4 14"/>
+        <Map maxTileCoordinate="4412927/2931199" minTileCoordinate="4411648/2929920" mapSource="OpenSeaMap German Combined" zoom="15" name="Schweiz_4 15"/>
+        <Map maxTileCoordinate="8825855/5862399" minTileCoordinate="8823296/5860096" mapSource="OpenSeaMap German Combined" zoom="16" name="Schweiz_4 16"/>
+    </Layer>
+    <Layer name="Schweiz_5">
+        <Map maxTileCoordinate="1103103/732671" minTileCoordinate="1102592/732160" mapSource="OpenSeaMap German Combined" zoom="13" name="Schweiz_5 13"/>
+        <Map maxTileCoordinate="2206207/1465343" minTileCoordinate="2205184/1464576" mapSource="OpenSeaMap German Combined" zoom="14" name="Schweiz_5 14"/>
+        <Map maxTileCoordinate="4412159/2930431" minTileCoordinate="4410624/2929408" mapSource="OpenSeaMap German Combined" zoom="15" name="Schweiz_5 15"/>
+        <Map maxTileCoordinate="8824063/5860863" minTileCoordinate="8821504/5858816" mapSource="OpenSeaMap German Combined" zoom="16" name="Schweiz_5 16"/>
+    </Layer>
+    <Layer name="Schweiz_6">
+        <Map maxTileCoordinate="1102847/732671" minTileCoordinate="1102336/732160" mapSource="OpenSeaMap German Combined" zoom="13" name="Schweiz_6 13"/>
+        <Map maxTileCoordinate="2205695/1465087" minTileCoordinate="2204928/1464320" mapSource="OpenSeaMap German Combined" zoom="14" name="Schweiz_6 14"/>
+        <Map maxTileCoordinate="4411391/2929919" minTileCoordinate="4409856/2928640" mapSource="OpenSeaMap German Combined" zoom="15" name="Schweiz_6 15"/>
+        <Map maxTileCoordinate="8822783/5859839" minTileCoordinate="8819968/5857536" mapSource="OpenSeaMap German Combined" zoom="16" name="Schweiz_6 16"/>
+    </Layer>
+    <Layer name="Schweiz_7">
+        <Map maxTileCoordinate="1102847/732415" minTileCoordinate="1102080/731904" mapSource="OpenSeaMap German Combined" zoom="13" name="Schweiz_7 13"/>
+        <Map maxTileCoordinate="2205439/1464831" minTileCoordinate="2204416/1464064" mapSource="OpenSeaMap German Combined" zoom="14" name="Schweiz_7 14"/>
+        <Map maxTileCoordinate="4410623/2929407" minTileCoordinate="4408832/2928128" mapSource="OpenSeaMap German Combined" zoom="15" name="Schweiz_7 15"/>
+        <Map maxTileCoordinate="8820991/5858815" minTileCoordinate="8817664/5856512" mapSource="OpenSeaMap German Combined" zoom="16" name="Schweiz_7 16"/>
+    </Layer>
+    <Layer name="Schweiz_8">
+        <Map maxTileCoordinate="1102335/732415" minTileCoordinate="1101824/731648" mapSource="OpenSeaMap German Combined" zoom="13" name="Schweiz_8 13"/>
+        <Map maxTileCoordinate="2204671/1464575" minTileCoordinate="2203904/1463552" mapSource="OpenSeaMap German Combined" zoom="14" name="Schweiz_8 14"/>
+        <Map maxTileCoordinate="4409343/2928895" minTileCoordinate="4407808/2927360" mapSource="OpenSeaMap German Combined" zoom="15" name="Schweiz_8 15"/>
+        <Map maxTileCoordinate="8818687/5857535" minTileCoordinate="8815616/5854976" mapSource="OpenSeaMap German Combined" zoom="16" name="Schweiz_8 16"/>
+    </Layer>
+    <Layer name="Schweiz_9">
+        <Map maxTileCoordinate="1104639/733951" minTileCoordinate="1103872/732928" mapSource="OpenSeaMap German Combined" zoom="13" name="Schweiz_9 13"/>
+        <Map maxTileCoordinate="2209023/1467647" minTileCoordinate="2207744/1466112" mapSource="OpenSeaMap German Combined" zoom="14" name="Schweiz_9 14"/>
+        <Map maxTileCoordinate="4417791/2935039" minTileCoordinate="4415744/2932224" mapSource="OpenSeaMap German Combined" zoom="15" name="Schweiz_9 15"/>
+        <Map maxTileCoordinate="8835583/5869823" minTileCoordinate="8831488/5864704" mapSource="OpenSeaMap German Combined" zoom="16" name="Schweiz_9 16"/>
+    </Layer>
+</atlas>
